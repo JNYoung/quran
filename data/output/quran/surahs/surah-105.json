@@ -1,0 +1,74 @@
+{
+  "surah_number": 105,
+  "surah_name_arabic": "سُورَةُ الفِيلِ",
+  "surah_name_english": "Al-Fil",
+  "surah_name_english_translation": "The Elephant",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "105:1",
+      "surah_number": 105,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "english_translation": "ART THOU NOT aware of how thy Sustainer dealt with the Army of the Elephant?"
+    },
+    {
+      "ayah_reference": "105:2",
+      "surah_number": 105,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "sajda": false,
+      "arabic_text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
+      "english_translation": "Did He not utterly confound their artful planning?"
+    },
+    {
+      "ayah_reference": "105:3",
+      "surah_number": 105,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "sajda": false,
+      "arabic_text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "english_translation": "Thus, He let loose upon them great swarms of flying creatures"
+    },
+    {
+      "ayah_reference": "105:4",
+      "surah_number": 105,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "sajda": false,
+      "arabic_text": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+      "english_translation": "which smote them with stone-hard blows of chastisement pre-ordained,"
+    },
+    {
+      "ayah_reference": "105:5",
+      "surah_number": 105,
+      "ayah_number": 5,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "sajda": false,
+      "arabic_text": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+      "english_translation": "and caused them to become like a field of grain that has been eaten down to stubble"
+    }
+  ]
+}

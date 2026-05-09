@@ -1,0 +1,48 @@
+{
+  "surah_number": 103,
+  "surah_name_arabic": "سُورَةُ العَصۡرِ",
+  "surah_name_english": "Al-Asr",
+  "surah_name_english_translation": "The Declining Day, Epoch",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "103:1",
+      "surah_number": 103,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 545,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+      "english_translation": "CONSIDER the flight of time!"
+    },
+    {
+      "ayah_reference": "103:2",
+      "surah_number": 103,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 545,
+      "sajda": false,
+      "arabic_text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+      "english_translation": "Verily, man is bound to lose himself"
+    },
+    {
+      "ayah_reference": "103:3",
+      "surah_number": 103,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 545,
+      "sajda": false,
+      "arabic_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "english_translation": "unless he be of those who attain to faith, and do good works, and enjoin upon one another the keeping to truth, and enjoin upon one another patience in adversity."
+    }
+  ]
+}

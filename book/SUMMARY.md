@@ -27,6 +27,7 @@
   - [Spiritual Source Expansion](docs/content/spiritual-source-expansion.md)
   - [Spiritual Site Watchlist](docs/content/spiritual-site-watchlist.md)
 - [Data](docs/data/README.md)
+  - [Data Repo Structure](docs/data/data-repo-structure.md)
   - [Local Quran Data](docs/data/local-quran-data.md)
   - [Chapter Split](docs/data/chapter-split.md)
   - [English Translation](docs/data/english-translation.md)

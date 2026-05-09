@@ -1,0 +1,113 @@
+{
+  "surah_number": 99,
+  "surah_name_arabic": "سُورَةُ الزَّلۡزَلَةِ",
+  "surah_name_english": "Az-Zalzala",
+  "surah_name_english_translation": "The Earthquake",
+  "revelation_type": "Medinan",
+  "ayahs": [
+    {
+      "ayah_reference": "99:1",
+      "surah_number": 99,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "english_translation": "WHEN THE EARTH quakes with her [last] mighty quaking,"
+    },
+    {
+      "ayah_reference": "99:2",
+      "surah_number": 99,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "english_translation": "and [when] the earth yields up her burdens,"
+    },
+    {
+      "ayah_reference": "99:3",
+      "surah_number": 99,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+      "english_translation": "and man cries out, \"What has happened to her?\" -"
+    },
+    {
+      "ayah_reference": "99:4",
+      "surah_number": 99,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا",
+      "english_translation": "on that Day will she recount all her tidings,"
+    },
+    {
+      "ayah_reference": "99:5",
+      "surah_number": 99,
+      "ayah_number": 5,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "english_translation": "as thy Sustainer will have inspired her to do!"
+    },
+    {
+      "ayah_reference": "99:6",
+      "surah_number": 99,
+      "ayah_number": 6,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+      "english_translation": "On that Day will all men come forward, cut off from one another, to be shown their [past] deeds."
+    },
+    {
+      "ayah_reference": "99:7",
+      "surah_number": 99,
+      "ayah_number": 7,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ",
+      "english_translation": "And so, he who shall have done an atom's weight of good, shall behold it;"
+    },
+    {
+      "ayah_reference": "99:8",
+      "surah_number": 99,
+      "ayah_number": 8,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 541,
+      "sajda": false,
+      "arabic_text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ",
+      "english_translation": "and he who shall have done an atom's weight of evil, shall behold it."
+    }
+  ]
+}

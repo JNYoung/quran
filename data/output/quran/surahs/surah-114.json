@@ -1,0 +1,87 @@
+{
+  "surah_number": 114,
+  "surah_name_arabic": "سُورَةُ النَّاسِ",
+  "surah_name_english": "An-Naas",
+  "surah_name_english_translation": "Mankind",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "114:1",
+      "surah_number": 114,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "english_translation": "SAY: \"I seek refuge with the Sustainer of men,"
+    },
+    {
+      "ayah_reference": "114:2",
+      "surah_number": 114,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "sajda": false,
+      "arabic_text": "مَلِكِ ٱلنَّاسِ",
+      "english_translation": "\"the Sovereign of men,"
+    },
+    {
+      "ayah_reference": "114:3",
+      "surah_number": 114,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "sajda": false,
+      "arabic_text": "إِلَٰهِ ٱلنَّاسِ",
+      "english_translation": "\"the God of men,"
+    },
+    {
+      "ayah_reference": "114:4",
+      "surah_number": 114,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "sajda": false,
+      "arabic_text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "english_translation": "\"from the evil of the whispering, elusive tempter"
+    },
+    {
+      "ayah_reference": "114:5",
+      "surah_number": 114,
+      "ayah_number": 5,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "sajda": false,
+      "arabic_text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "english_translation": "\"who whispers in the hearts of men"
+    },
+    {
+      "ayah_reference": "114:6",
+      "surah_number": 114,
+      "ayah_number": 6,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "sajda": false,
+      "arabic_text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "english_translation": "\"from all [temptation to evil by] invisible forces as well as men,\""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "surah_number": 106,
+  "surah_name_arabic": "سُورَةُ قُرَيۡشٍ",
+  "surah_name_english": "Quraish",
+  "surah_name_english_translation": "Quraysh",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "106:1",
+      "surah_number": 106,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 548,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لِإِيلَٰفِ قُرَيْشٍ",
+      "english_translation": "SO THAT the Quraysh might remain secure,"
+    },
+    {
+      "ayah_reference": "106:2",
+      "surah_number": 106,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 548,
+      "sajda": false,
+      "arabic_text": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "english_translation": "secure in their winter and summer journeys,"
+    },
+    {
+      "ayah_reference": "106:3",
+      "surah_number": 106,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 548,
+      "sajda": false,
+      "arabic_text": "فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ",
+      "english_translation": "Let them, therefore, worship the Sustainer of this Temple;"
+    },
+    {
+      "ayah_reference": "106:4",
+      "surah_number": 106,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 548,
+      "sajda": false,
+      "arabic_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "english_translation": "who has given them food against hunger, and made them safe from danger."
+    }
+  ]
+}

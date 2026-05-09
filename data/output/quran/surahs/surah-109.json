@@ -1,0 +1,87 @@
+{
+  "surah_number": 109,
+  "surah_name_arabic": "سُورَةُ الكَافِرُونَ",
+  "surah_name_english": "Al-Kaafiroon",
+  "surah_name_english_translation": "The Disbelievers",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "109:1",
+      "surah_number": 109,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 551,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+      "english_translation": "SAY: \"O you who deny the truth!"
+    },
+    {
+      "ayah_reference": "109:2",
+      "surah_number": 109,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 551,
+      "sajda": false,
+      "arabic_text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "english_translation": "\"I do not worship that which you worship,"
+    },
+    {
+      "ayah_reference": "109:3",
+      "surah_number": 109,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 551,
+      "sajda": false,
+      "arabic_text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "english_translation": "and neither do you worship that which I worship!"
+    },
+    {
+      "ayah_reference": "109:4",
+      "surah_number": 109,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 551,
+      "sajda": false,
+      "arabic_text": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ",
+      "english_translation": "\"And I will not worship ~hat which you have [ever] worshipped,"
+    },
+    {
+      "ayah_reference": "109:5",
+      "surah_number": 109,
+      "ayah_number": 5,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 551,
+      "sajda": false,
+      "arabic_text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "english_translation": "and neither will you [ever] worship that which I worship."
+    },
+    {
+      "ayah_reference": "109:6",
+      "surah_number": 109,
+      "ayah_number": 6,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 551,
+      "sajda": false,
+      "arabic_text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "english_translation": "Unto you, your moral law, and unto me, mine!\""
+    }
+  ]
+}

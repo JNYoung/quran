@@ -1,0 +1,74 @@
+{
+  "surah_number": 97,
+  "surah_name_arabic": "سُورَةُ القَدۡرِ",
+  "surah_name_english": "Al-Qadr",
+  "surah_name_english_translation": "The Power, Fate",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "97:1",
+      "surah_number": 97,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 539,
+      "sajda": false,
+      "arabic_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "english_translation": "BEHOLD, from on high have We bestowed this [divine writ] on Night of Destiny."
+    },
+    {
+      "ayah_reference": "97:2",
+      "surah_number": 97,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 539,
+      "sajda": false,
+      "arabic_text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "english_translation": "And what could make thee conceive what it is, that Night of Destiny?"
+    },
+    {
+      "ayah_reference": "97:3",
+      "surah_number": 97,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 539,
+      "sajda": false,
+      "arabic_text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+      "english_translation": "The Night of Destiny is better than a thousand months:"
+    },
+    {
+      "ayah_reference": "97:4",
+      "surah_number": 97,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 539,
+      "sajda": false,
+      "arabic_text": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ",
+      "english_translation": "in hosts descend in it the angels, bearing divine inspiration by their Sustainer's leave; from all [evil] that may happen"
+    },
+    {
+      "ayah_reference": "97:5",
+      "surah_number": 97,
+      "ayah_number": 5,
+      "juz": 30,
+      "hizb_quarter": 239,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 539,
+      "sajda": false,
+      "arabic_text": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "english_translation": "does it make secure, until the rise of dawn."
+    }
+  ]
+}

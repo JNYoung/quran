@@ -1,0 +1,74 @@
+{
+  "surah_number": 111,
+  "surah_name_arabic": "سُورَةُ المَسَدِ",
+  "surah_name_english": "Al-Masad",
+  "surah_name_english_translation": "The Palm Fibre",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "111:1",
+      "surah_number": 111,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+      "english_translation": "DOOMED are the hands of him of the glowing countence: and doomed is he!"
+    },
+    {
+      "ayah_reference": "111:2",
+      "surah_number": 111,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "sajda": false,
+      "arabic_text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "english_translation": "What will his wealth avail him, and all that he has gained?"
+    },
+    {
+      "ayah_reference": "111:3",
+      "surah_number": 111,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "sajda": false,
+      "arabic_text": "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ",
+      "english_translation": "[In the life to come] he shall have to endure a fire fiercely glowing;"
+    },
+    {
+      "ayah_reference": "111:4",
+      "surah_number": 111,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "sajda": false,
+      "arabic_text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "english_translation": "together with his wife, that carrier of evil tales,"
+    },
+    {
+      "ayah_reference": "111:5",
+      "surah_number": 111,
+      "ayah_number": 5,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "sajda": false,
+      "arabic_text": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+      "english_translation": "[who bears] around her neck a rope of twisted strands!"
+    }
+  ]
+}

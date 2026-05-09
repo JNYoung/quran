@@ -1,0 +1,74 @@
+{
+  "surah_number": 113,
+  "surah_name_arabic": "سُورَةُ الفَلَقِ",
+  "surah_name_english": "Al-Falaq",
+  "surah_name_english_translation": "The Dawn",
+  "revelation_type": "Meccan",
+  "ayahs": [
+    {
+      "ayah_reference": "113:1",
+      "surah_number": 113,
+      "ayah_number": 1,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "sajda": false,
+      "arabic_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "english_translation": "SAY: \"I seek refuge with the Sustainer of the rising dawn,"
+    },
+    {
+      "ayah_reference": "113:2",
+      "surah_number": 113,
+      "ayah_number": 2,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "sajda": false,
+      "arabic_text": "مِن شَرِّ مَا خَلَقَ",
+      "english_translation": "\"from the evil of aught that He has created,"
+    },
+    {
+      "ayah_reference": "113:3",
+      "surah_number": 113,
+      "ayah_number": 3,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "sajda": false,
+      "arabic_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "english_translation": "\"and from the evil of the black darkness whenever it descends,"
+    },
+    {
+      "ayah_reference": "113:4",
+      "surah_number": 113,
+      "ayah_number": 4,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "sajda": false,
+      "arabic_text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "english_translation": "\"and from the evil of all human beings bent on occult endeavours,"
+    },
+    {
+      "ayah_reference": "113:5",
+      "surah_number": 113,
+      "ayah_number": 5,
+      "juz": 30,
+      "hizb_quarter": 240,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "sajda": false,
+      "arabic_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "english_translation": "\"and from the evil of the envious when he envies.\""
+    }
+  ]
+}
