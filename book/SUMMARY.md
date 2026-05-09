@@ -69,6 +69,7 @@
   - [Ad Strategy](docs/growth/ad-strategy.md)
   - [Ad Ops](docs/growth/ad-ops.md)
 - [Records](docs/records/README.md)
+  - [Ayah Refinement Workflow](docs/records/ayah-refinement-workflow.md)
   - [Local Quran Data Execution](docs/records/local-quran-data-execution.md)
   - [Ayah Label Records V1](docs/records/ayah-label-records-v1.md)
   - [High Value Ayah Refinement Batch 1](docs/records/high-value-ayah-refinement-batch-1.md)
