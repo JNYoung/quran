@@ -76,5 +76,6 @@ Then check:
 ## Current Working Style
 
 - execute first, document in parallel
+- development path must stay reflected in GitBook/docs
 - keep refinement history in records
 - treat ayah refinement as an ongoing editorial pipeline

@@ -20,6 +20,17 @@ Start actual app development inside this repository while keeping the existing d
 ## Current status
 This is the initial folder scaffold, not the full implementation yet.
 
+## Documentation sync rule
+From this point on, development path and implementation changes must be reflected in the GitBook/docs structure in parallel.
+
+This applies to:
+- `server/`
+- `ios/`
+- `android/`
+- `shared/`
+
+If implementation changes but related docs are not updated, the work is incomplete.
+
 ## Next development steps
 1. define shared content/app contracts
 2. start local dev backend skeleton in `server/`

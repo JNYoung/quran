@@ -8,4 +8,7 @@ Start here:
 - `DEVELOPMENT_STRUCTURE.md`
 - `book/SUMMARY.md`
 
+Development path is part of the documented repo structure.
+All meaningful implementation work should update related docs in parallel.
+
 See `book/SUMMARY.md` for documentation navigation.
