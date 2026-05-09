@@ -1,16 +1,13 @@
 # iOS
 
-Native iOS workspace placeholder for the Quran prayer app.
+iOS UI scaffold for the Quran prayer app.
 
-## Scope
-- iOS app shell
-- Today / Prayer / Completion flows
-- push handling
-- Women Mode support
-- offline content rendering
+## Current prototype state
+- mock content only
+- screen flow scaffolded
+- Today -> Prayer -> Completion navigation modeled
 
-## Planned structure
-- `App`
-- `Sources`
-- `Resources`
-- `Tests`
+## Files
+- `App/AppEntry.swift` prototype navigation and mock data model
+- `Sources/Views/ScreenRenderers.swift` simple screen rendering helpers
+- `../shared/content/mock-content.json` shared mock content source

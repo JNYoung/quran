@@ -1,16 +1,12 @@
 # Android
 
-Android workspace placeholder for the Quran prayer app.
+Android UI scaffold for the Quran prayer app.
 
-## Scope
-- Android app shell
-- modular feature setup
-- Today / Prayer / Completion flows
-- push handling
-- offline content rendering
+## Current prototype state
+- mock content only
+- screen flow scaffolded
+- Today -> Prayer -> Completion navigation modeled
 
-## Planned structure
-- `app`
-- `core`
-- `features`
-- `gradle`
+## Files
+- `app/src/MainActivity.kt` prototype navigation and screen rendering model
+- `../shared/content/mock-content.json` shared mock content source

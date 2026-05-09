@@ -1,0 +1,17 @@
+{
+  "today": {
+    "ayahReference": "94:5",
+    "arabicText": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    "englishText": "And, behold, with every hardship comes ease:",
+    "themeTags": ["hope", "calm"],
+    "prayerIntents": ["need_hope_today", "need_calm_today"],
+    "reflection": "Today is about staying steady and remembering that difficulty is not the end of the story.",
+    "prayerPrompt": "Take one quiet moment, breathe slowly, and ask for steadiness and ease.",
+    "completionMessage": "You showed up today. That matters.",
+    "womenMode": {
+      "reflection": "Be gentle with yourself today. Ease can begin quietly.",
+      "prayerPrompt": "You do not need to force anything. Rest in remembrance for a moment.",
+      "completionMessage": "A soft pause is enough for today."
+    }
+  }
+}
