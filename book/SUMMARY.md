@@ -1,6 +1,7 @@
 # Summary
 
 - [Overview](README.md)
+- [Repo Summary](REPO_SUMMARY.md)
 - [Planning](docs/planning/README.md)
   - [Four App Research](docs/planning/four-app-research.md)
   - [Execution Overview](docs/planning/execution-overview.md)
