@@ -1,10 +1,11 @@
 # Quran Project Docs
 
-This repository syncs the Quran prayer app project into a GitBook-friendly structure.
+This repository now contains both the Quran prayer app documentation/data base and the initial app development structure.
 
 Start here:
 - `README.md`
 - `REPO_SUMMARY.md`
+- `DEVELOPMENT_STRUCTURE.md`
 - `book/SUMMARY.md`
 
-See `book/SUMMARY.md` for navigation.
+See `book/SUMMARY.md` for documentation navigation.

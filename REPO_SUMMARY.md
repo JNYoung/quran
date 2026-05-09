@@ -4,10 +4,11 @@
 
 This repository is the structured project base for the Quran prayer app initiative.
 
-It contains three things together:
+It now contains four things together:
 - GitBook-style product and execution documentation
 - localized Quran data assets
 - scripts and records for ayah labeling and refinement
+- initial app development workspaces for server / iOS / Android / shared
 
 ## Core Project Shape
 
